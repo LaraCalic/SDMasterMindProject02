@@ -8,4 +8,4 @@ The mentioned name of a hotel does not exist, and the idea behind this task is t
 
 
 
-## Author: Lara Calic -- Full Stack Developer
+-- Author: Lara Calic -- Full Stack Developer

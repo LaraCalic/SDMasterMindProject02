@@ -4,7 +4,7 @@ The main components of a project consist of: a title, subtitle, background image
 
 The goal of successfully finishing this project is to: learn more about styling options inside the CSS file and how to form input validation works inside the HTML.
 
-The mentioned name of a hotel does not exist, and the idea behind this task is to implement basic knowledge of HTML and CSS, focusing more on selectors and classes in CSS. 
+The mentioned name of a hotel doesn't exist, and the idea behind this task is to implement basic knowledge of HTML and CSS, focusing more on selectors and classes in CSS. 
 
 
 
